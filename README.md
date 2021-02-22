@@ -9,7 +9,11 @@ The display is a waveshare OLED display.
 
 ![print in half opened box](images/photo-2.jpeg)
 
+
 ![print in box](images/photo-3.jpeg)
+
+
+The brass insets are heat inserted with a soledring iron.
 
 ![box with screen and keyboard](images/photo-4.jpeg)
 
