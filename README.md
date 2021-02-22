@@ -1,5 +1,9 @@
 # waveshareoled
-a 3d priuntable housing for the waveshare oled
+a 3d printable housing for the waveshare oled
+
+## initial print and test
+In this first print the casing is just a half milimeter too tight for the display to fit in. It might nake sense to add some fitting helpers and to make the casing a bit more roomy as it's supposed to get a faceplate anyhow.
+The brass inserts are for mounting a wooden faceplate.
 
 ![Whiskey box, display, and initial print](images/photo.jpeg)
 
